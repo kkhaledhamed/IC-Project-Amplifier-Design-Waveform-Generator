@@ -14,8 +14,7 @@ This repository contains the design and simulation of an amplifier and waveform 
 3. [Waveform Generator](#waveform-generator)
    - [Circuit Design](#circuit-design)
    - [Simulation Results](#simulation-results)
-4. [Images](#images)
-5. [Contributors](#contributors)
+4. [Contributors](#contributors)
 
 ---
 
@@ -96,34 +95,17 @@ The output waveforms for square, triangular, and sine waves at 100kHz and 10MHz 
 
 ---
 
-## Images
-
-Below are the key images from the project:
-
-1. **OTA Schematic**: ![OTA Schematic](images/ota_schematic.png)
-2. **OTA Testbench**: ![OTA Testbench](images/ota_testbench.png)
-3. **Amplifier Gain with Ideal OTA**: ![Amplifier Gain with Ideal OTA](images/amplifier_gain_ideal_ota.png)
-4. **Amplifier Gain with Real OTA**: ![Amplifier Gain with Real OTA](images/amplifier_gain_real_ota.png)
-5. **CMRR Schematic**: ![CMRR Schematic](images/cmrr_schematic.png)
-6. **Square Wave at 100kHz**: ![Square Wave at 100kHz](images/square_wave_100kHz.png)
-7. **Triangular Wave at 100kHz**: ![Triangular Wave at 100kHz](images/triangular_wave_100kHz.png)
-8. **Sine Wave at 100kHz**: ![Sine Wave at 100kHz](images/sine_wave_100kHz.png)
-
----
-
 ## Contributors
 
 This project was completed by the following team members:
 
 | ID       | Section | Name                          |
 |----------|---------|-------------------------------|
-| 9220007  | 1       | ابراهيم ايمن ناهد محمد         |
-| 9220022  | 1       | احمد امير يسري ابراهيم         |
-| 9220028  | 1       | احمد حسن محمد حسن             |
-| 9220247  | 2       | حازم احمد عبدالفتاح حسن       |
-| 9220276  | 2       | خالد احمد حامد عبدالعزيز       |
-| 9220461  | 2       | عبدالرحمن حاتم نصر يوسف       |
+| 9220007  | 1       | Ibrahim Ayman Nahed         |
+| 9220022  | 1       | Ahmed Amir Youssry         |
+| 9220028  | 1       | Ahmed Hassan Mohamed             |
+| 9220247  | 2       | Hazem Ahmed Abdelfattah       |
+| 9220276  | 2       | Khaled Ahmed Hamed       |
+| 9220461  | 2       | Abdelrahman Hatem Nasr       |
 
----
 
-For more details, please refer to the project report and simulation files in the repository.
