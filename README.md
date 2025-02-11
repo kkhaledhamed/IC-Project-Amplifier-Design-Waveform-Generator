@@ -45,28 +45,33 @@ The OTA was designed with the following specifications:
 
 The OTA schematic and testbench are shown below:
 
-![OTA Schematic](images/ota_schematic.png)
+![image](https://github.com/user-attachments/assets/da8dca94-0880-430e-9132-931d584b060d)
+
 *Figure 10: Schematic of OTA*
 
-![OTA Testbench](images/ota_testbench.png)
+![image](https://github.com/user-attachments/assets/9b2b06b3-fdd6-416c-8298-7ba93a952351)
+
 *Figure 11: Schematic of OTA Testbench*
 
 ### Main Circuit with Ideal OTA
 The main circuit was first simulated with an ideal OTA to verify the design. The gain and bandwidth were measured, and the results are shown below:
 
-![Amplifier Gain with Ideal OTA](images/amplifier_gain_ideal_ota.png)
+![image](https://github.com/user-attachments/assets/d427af0c-7e4d-4628-9199-e6a127659abc)
+
 *Figure 17: Amplifier Gain in dB with Ideal OTA*
 
 ### Main Circuit with Real OTA
 The main circuit was then simulated with the actual OTA. The results showed a slight deviation from the ideal case due to the limited bandwidth of the OTA.
 
-![Amplifier Gain with Real OTA](images/amplifier_gain_real_ota.png)
+![image](https://github.com/user-attachments/assets/517c290c-c070-4000-92fe-a17a5b2844f5)
+
 *Figure 21: Amplifier Gain in dB with Real OTA*
 
 ### Bonus: Different Gains and CMRR
 As part of the bonus section, different gains (common mode, differential mode, etc.) and the Common Mode Rejection Ratio (CMRR) were calculated and simulated.
 
-![CMRR Schematic](images/cmrr_schematic.png)
+![image](https://github.com/user-attachments/assets/2b112ad9-0cf2-466b-8c50-b9f22001fd78)
+
 *Figure 34: CMRR Schematic*
 
 ---
@@ -84,13 +89,16 @@ The circuit was designed to operate at frequencies from 100kHz to 10MHz.
 ### Simulation Results
 The output waveforms for square, triangular, and sine waves at 100kHz and 10MHz are shown below:
 
-![Square Wave at 100kHz](images/square_wave_100kHz.png)
+![image](https://github.com/user-attachments/assets/73d41ec9-f055-4f19-ba67-6aecdc0d7661)
+
 *Figure 50: Square Wave at 100kHz*
 
-![Triangular Wave at 100kHz](images/triangular_wave_100kHz.png)
+![image](https://github.com/user-attachments/assets/f81c1e55-633b-4055-b285-1fce824c5b96)
+
 *Figure 51: Triangular Wave at 100kHz*
 
-![Sine Wave at 100kHz](images/sine_wave_100kHz.png)
+![image](https://github.com/user-attachments/assets/07cb65b0-2f53-4963-a252-a42787db959a)
+
 *Figure 52: Sine Wave at 100kHz*
 
 ---
