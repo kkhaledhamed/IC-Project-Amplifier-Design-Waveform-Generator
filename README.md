@@ -20,7 +20,7 @@ This repository contains the design and simulation of an amplifier and waveform 
 
 ## Project Overview
 
-This project focuses on the design and simulation of an Operational Transconductance Amplifier (OTA) and a waveform generator. The OTA is designed to meet specific gain and bandwidth requirements, while the waveform generator is capable of producing square, triangular, and sine waves at frequencies ranging from 100kHz to 10MHz.
+This project focuses on the design and simulation of an Operational Transconductance Amplifier (OTA) and a waveform generator. The OTA is designed to meet specific gain and bandwidth requirements, while the waveform generator is capable of producing square, triangular, and sine waves at frequencies ranging from 100kHz to 10MHz. The entire project was implemented using **Cadence Virtuoso**, leveraging its powerful schematic design, simulation, and analysis tools.
 
 ---
 
