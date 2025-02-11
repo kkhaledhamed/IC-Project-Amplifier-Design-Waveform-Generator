@@ -83,6 +83,9 @@ The waveform generator consists of three main stages:
 1. **Astable Multivibrator**: Generates a square wave.
 2. **Integrator**: Converts the square wave into a triangular wave.
 3. **Low-Pass Filter**: Converts the triangular wave into a sine wave.
+![image](https://github.com/user-attachments/assets/2b26974c-3250-482d-9592-2e394a287464)
+
+*Figure 46: The Schematic for the circuit*
 
 The circuit was designed to operate at frequencies from 100kHz to 10MHz.
 
